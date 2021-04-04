@@ -1,0 +1,15 @@
+C:\Users\octavian.mitu\Desktop\Test\project\project\Persistence\obj\Debug\net5.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\octavian.mitu\Desktop\Test\project\project\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\octavian.mitu\Desktop\Test\project\project\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfo.cs
+C:\Users\octavian.mitu\Desktop\Test\project\project\Persistence\obj\Debug\net5.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\octavian.mitu\Desktop\Test\project\project\Persistence\bin\Debug\net5.0\Persistence.deps.json
+C:\Users\octavian.mitu\Desktop\Test\project\project\Persistence\bin\Debug\net5.0\Persistence.dll
+C:\Users\octavian.mitu\Desktop\Test\project\project\Persistence\bin\Debug\net5.0\ref\Persistence.dll
+C:\Users\octavian.mitu\Desktop\Test\project\project\Persistence\bin\Debug\net5.0\Persistence.pdb
+C:\Users\octavian.mitu\Desktop\Test\project\project\Persistence\obj\Debug\net5.0\Persistence.dll
+C:\Users\octavian.mitu\Desktop\Test\project\project\Persistence\obj\Debug\net5.0\ref\Persistence.dll
+C:\Users\octavian.mitu\Desktop\Test\project\project\Persistence\obj\Debug\net5.0\Persistence.pdb
+C:\Users\octavian.mitu\Desktop\Test\project\project\Persistence\bin\Debug\net5.0\Persistence.runtimeconfig.json
+C:\Users\octavian.mitu\Desktop\Test\project\project\Persistence\bin\Debug\net5.0\Persistence.runtimeconfig.dev.json
+C:\Users\octavian.mitu\Desktop\Test\project\project\Persistence\obj\Debug\net5.0\Persistence.genruntimeconfig.cache
+C:\Users\octavian.mitu\Desktop\Test\project\project\Persistence\obj\Debug\net5.0\Persistence.csprojAssemblyReference.cache
